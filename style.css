@@ -909,7 +909,7 @@ body{
 }
 
 
-@media screen and (min-width: 1000px){
+@media screen and (min-width: 500px){
     .container{
         position: relative;
         background: black;
